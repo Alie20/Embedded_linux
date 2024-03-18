@@ -1,3 +1,8 @@
+<p align = "center">
+<h1> Task1 </h1>
+</p>
+
+
 1. **What does "kernel" mean?**
    - The kernel is the core component of an operating system. It manages the system's resources, such as CPU, memory, and peripheral devices. It provides essential services for other parts of the operating system and user applications.
 
