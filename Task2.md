@@ -17,7 +17,7 @@
 
    - use cmmand strace -c ls 
    <p align="center">
-    <img src="./imgs/ps.png" alt="strace for ls">
+    <img src="./imgs/ls.png" alt="strace for ls">
     </p>
 
    - cd command used to change directory to specific path
